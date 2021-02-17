@@ -2,7 +2,10 @@
 
 #### My GitHub Stats 
 
-![sebastian-byte' github stats](https://github-readme-stats.vercel.app/api?username=sebastian-byte&show_icons=true&theme=dracula)
+![sebastian-byte' github stats](https://github-readme-stats.vercel.app/api?username=sebastian-byte&count_private=true&show_icons=true&theme=dracula)
+
+![sebastian-byte' github top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sebastian-byte&count_private=true&show_icons=true&theme=darcula)
+
 
 <br>
 
