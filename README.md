@@ -2,11 +2,11 @@
 
 #### My GitHub Stats 
 
-![Sebastián's GitHub stats](https://github-readme-stats.vercel.app/api?username=sebastian-byte&count_private=true&show_icons=true&theme=dracula)
+[![Sebastián's GitHub stats](https://github-readme-stats.vercel.app/api?username=sebastian-byte&count_private=true&show_icons=true&theme=dracula)](https://github.com/Sebastian-byte)
 
 #### Most Used Languages
 
-![Sebastián's GitHub top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sebastian-byte&count_private=true&show_icons=true&theme=darcula)
+[![Sebastián's GitHub top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sebastian-byte&count_private=true&show_icons=true&theme=darcula)](https://github.com/Sebastian-byte)
 
 <br />
 
