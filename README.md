@@ -6,7 +6,7 @@
 
 #### Most Used Languages
 
-[![Sebastián's GitHub top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sebastian-byte&count_private=true&show_icons=true&theme=darcula)](https://github.com/Sebastian-byte)
+[![Sebastián's GitHub top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sebastian-byte&count_private=true&show_icons=true&theme=darcula&layout=compact)](https://github.com/Sebastian-byte)
 
 <br />
 
